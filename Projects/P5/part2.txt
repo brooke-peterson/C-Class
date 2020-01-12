@@ -1,0 +1,5 @@
+these are several test identifiers
+array of real var
+these are several test identifiers
+if mod while program
+func foo name id

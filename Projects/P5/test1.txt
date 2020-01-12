@@ -1,0 +1,5 @@
+identifier func
+name foo
+identifier
+foo
+test test
